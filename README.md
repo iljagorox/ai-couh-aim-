@@ -75,6 +75,5 @@ pip install -r requirements.txt
 
 Установите Microsoft Visual C++ Redistributable. Многие библиотеки (особенно связанные с ИИ) требуют этот пакет для работы на Windows. Скачать можно с официального сайта Microsoft.
 
-Если на каком-то из этапов возникнут ошибки, просто напишите мне — разберёмся вместе.
 
 <img width="1282" height="808" alt="image" src="https://github.com/user-attachments/assets/f03f2bfc-07f2-42cb-9d21-701caf4b4ae1" />
