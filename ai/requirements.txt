@@ -1,0 +1,13 @@
+customtkinter
+psutil
+pyautogui
+ollama
+Pillow
+pywin32>=306
+faster-whisper
+sounddevice
+silero-vad
+torch
+soundfile
+onnxruntime
+pygetwindow
