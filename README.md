@@ -79,3 +79,5 @@ pip install -r requirements.txt
 
 
 <img width="1282" height="808" alt="image" src="https://github.com/user-attachments/assets/f03f2bfc-07f2-42cb-9d21-701caf4b4ae1" />
+
+ «Если проект показался вам полезным, поставьте, пожалуйста, звезду ⭐»
