@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
-import subprocess
-import winreg
-from pathlib import Path
-from typing import Dict, List, Optional
+
 
 class SystemInfo:
     def __init__(self):
@@ -35,3 +32,18 @@ class SystemInfo:
 
     def get_available_browsers(self):
         return list(self.browsers.keys())
+
+    def find_program(self, target):
+        target = (target or "").strip().lower()
+        browser_aliases = {
+            "browser": "edge",
+            "браузер": "edge",
+            "chrome": "chrome",
+            "google chrome": "chrome",
+            "firefox": "firefox",
+            "edge": "edge",
+        }
+        browser = browser_aliases.get(target)
+        if browser and browser in self.browsers:
+            return self.browsers[browser]
+        return None

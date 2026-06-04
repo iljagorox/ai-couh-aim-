@@ -10,6 +10,10 @@ from pathlib import Path
 import pyautogui
 from PIL import ImageGrab, Image
 import pygetwindow as gw
+try:
+    import pyperclip
+except Exception:
+    pyperclip = None
 
 from smart_pilot import SmartPilot
 
@@ -34,13 +38,15 @@ class Executor:
         self.wait_count = 0
         self.no_change_steps = 0
         self.last_cmd = ""
+        self.last_action_pos = None
+        self.last_action_time = 0.0
 
         self.smart_pilot = SmartPilot(
             screen_w=self.screen_w,
             screen_h=self.screen_h,
             no_go_top=NO_GO_ZONE_HEIGHT,
-            grid_cols=12,          # увеличено для более мелкого шага
-            grid_rows=8,           # увеличено для более мелкого шага
+            grid_cols=12,
+            grid_rows=8,
             executor=self
         )
 
@@ -71,7 +77,7 @@ class Executor:
         return False
 
     def _ensure_browser_focus(self):
-        browsers = ["Edge", "Chrome", "Firefox", "Opera", "Yandex", "Brave"]
+        browsers = ["Яндекс", "Yandex", "Edge", "Chrome", "Firefox", "Opera", "Brave"]
         for b in browsers:
             if self._focus_window_by_title(b):
                 return True
@@ -131,6 +137,13 @@ class Executor:
                 time.sleep(0.3)
                 after_hash = self._take_screenshot_hash()
                 changed = before_hash != after_hash if before_hash and after_hash else True
+                if cu.startswith("MOVE:") and result:
+                    if changed:
+                        print("[Executor] ✓ Курсор навёлся, экран отреагировал")
+                        self.no_change_steps = 0
+                    else:
+                        print("[Executor] ✓ Курсор перемещён")
+                    return True
                 if result and changed:
                     print(f"[Executor] ✓ Успешно, экран изменился")
                     self.no_change_steps = 0
@@ -162,61 +175,84 @@ class Executor:
             return False
 
     def _smart_explore(self) -> bool:
-        """
-        Запускает полный цикл исследования экрана.
-        SmartPilot проходит все шаги до лимита — не останавливается на первом изменении.
-        """
         task_hint = getattr(self.core, 'last_task', '') if self.core else ''
-
-        # Если пилот уже активен — не активируем повторно, просто продолжаем
         if not self.smart_pilot.enabled:
             self.smart_pilot.reset()
             self.smart_pilot.activate()
 
         found_change = False
         steps_done = 0
-
-        print(f"[Executor] 🔍 SmartExplore начат (лимит {self.smart_pilot.max_explore_steps} шагов)")
+        print(f"[Executor] SmartExplore start (limit {self.smart_pilot.max_explore_steps} steps)")
 
         while self.smart_pilot.should_continue():
             step_changed = self.smart_pilot.perform_step(task_hint)
             if step_changed:
                 found_change = True
+                break
             steps_done += 1
-            time.sleep(0.15)  # пауза между шагами
+            time.sleep(0.10)
 
-        print(f"[Executor] 🔍 SmartExplore завершён: {steps_done} шагов, изменений={'да' if found_change else 'нет'}")
-
-        # сбросить счётчик зависаний
+        print(f"[Executor] SmartExplore done: {steps_done} steps, real_change={'yes' if found_change else 'no'}")
+        lessons = self.smart_pilot.lessons() if hasattr(self.smart_pilot, "lessons") else []
+        if lessons:
+            print("[Executor] SmartExplore lessons: " + " | ".join(lessons[-5:]))
         self.no_change_steps = 0
-
-        # сбросить consecutive_failures в планировщике если есть
+        if self.core:
+            try:
+                self.core.last_smart_explore = {"steps": steps_done, "real_change": found_change, "lessons": lessons[-12:]}
+            except Exception:
+                pass
         if self.core:
             planner = getattr(self.core, 'planner', None)
             if planner and hasattr(planner, 'consecutive_failures'):
                 planner.consecutive_failures = 0
-
         return found_change
 
-    # ---------- Вспомогательные методы ----------
+    def _find_element_center(self, name: str):
+        try:
+            try:
+                import pythoncom
+                pythoncom.CoInitialize()
+            except Exception:
+                pass
+            import uiautomation as auto
+            root = auto.GetForegroundControl()
+            for ctrl, depth in auto.WalkControl(root, maxDepth=3):
+                if name.lower() in ctrl.Name.lower():
+                    rect = ctrl.BoundingRectangle
+                    if rect:
+                        return (rect.left + rect.right) // 2, (rect.top + rect.bottom) // 2
+        except Exception:
+            pass
+        return None
 
     def _click(self, cmd: str, cu: str) -> bool:
         nums = re.findall(r"-?\d+", cmd)
         if len(nums) >= 2:
             x, y = int(nums[0]), int(nums[1])
-            if not (0 <= x <= self.screen_w and 0 <= y <= self.screen_h) or self._is_in_no_go_zone(x, y):
-                x, y = self.screen_w // 2, self.screen_h // 2
-            pyautogui.moveTo(x, y, duration=0.05)
-            import random
-            pyautogui.moveRel(random.randint(-5, 5), random.randint(-5, 5), duration=0.01)
-            if cu.startswith("DBLCLICK"):
-                pyautogui.doubleClick()
-            elif cu.startswith("RIGHTCLICK"):
-                pyautogui.rightClick()
+        else:
+            name = cmd.split(":", 1)[1].strip() if ":" in cmd else ""
+            coords = self._find_element_center(name) if name else None
+            if coords:
+                x, y = coords
+                print(f"[Executor] Нашёл элемент '{name}' → ({x}, {y})")
             else:
-                pyautogui.click()
-            return True
-        return False
+                return False
+
+        if not (0 <= x <= self.screen_w and 0 <= y <= self.screen_h) or self._is_in_no_go_zone(x, y):
+            x, y = self.screen_w // 2, self.screen_h // 2
+        pyautogui.moveTo(x, y, duration=0.14)
+        self._mark_mouse_owned(x, y)
+        time.sleep(0.08)
+        import random
+        pyautogui.moveRel(random.randint(-2, 2), random.randint(-2, 2), duration=0.02)
+        if cu.startswith("DBLCLICK"):
+            pyautogui.doubleClick()
+        elif cu.startswith("RIGHTCLICK"):
+            pyautogui.rightClick()
+        else:
+            pyautogui.click()
+        return True
 
     def _move(self, cmd: str) -> bool:
         nums = re.findall(r"-?\d+", cmd)
@@ -225,9 +261,26 @@ class Executor:
             if self._is_in_no_go_zone(x, y):
                 return False
             if 0 <= x <= self.screen_w and 0 <= y <= self.screen_h:
-                pyautogui.moveTo(x, y, duration=0.1)
+                pyautogui.moveTo(x, y, duration=0.18)
+                self._mark_mouse_owned(x, y)
+                time.sleep(0.12)
                 return True
         return False
+
+    def _mark_mouse_owned(self, x: int, y: int):
+        self.last_action_pos = (int(x), int(y))
+        self.last_action_time = time.time()
+
+    def _paste_text(self, text: str) -> bool:
+        if not text:
+            return False
+        if pyperclip is not None:
+            pyperclip.copy(text)
+            time.sleep(0.05)
+            pyautogui.hotkey('ctrl', 'v')
+            return True
+        pyautogui.write(text, interval=0.02)
+        return True
 
     def _type(self, cmd: str) -> bool:
         text = cmd[5:].strip()
@@ -244,8 +297,7 @@ class Executor:
                 return False
             pyautogui.click(cx, cy)
             time.sleep(0.2)
-        pyautogui.typewrite(text, interval=0.02)
-        return True
+        return self._paste_text(text)
 
     def _hotkey(self, cmd: str) -> bool:
         keys = [k.strip().lower() for k in cmd[7:].strip().split('+') if k.strip()]
@@ -268,10 +320,16 @@ class Executor:
         if not query:
             return False
         if not self._ensure_browser_focus():
-            return False
+            try:
+                url = self.search_engine.format(query=urllib.parse.quote_plus(query))
+                webbrowser.open(url)
+                return True
+            except Exception:
+                return False
         pyautogui.hotkey('ctrl', 'l')
         time.sleep(0.2)
-        pyautogui.typewrite(query, interval=0.02)
+        if not self._paste_text(query):
+            return False
         time.sleep(0.2)
         pyautogui.press('enter')
         return True

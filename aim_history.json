@@ -1,0 +1,1337 @@
+{
+  "sessions": [
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer monitor displaying a cartoon-style image of a city skyline at night with various buildings illuminated by bright lights. The monitor is turned on, and the screen appears to be divided into two sections, one containing a list of icons and another showing a windowed page with a message displayed in white text.\n\nThe background of the image features a dark blue color, which contrasts with the brightly lit city skyline. The cartoon-style illustration adds a creative touch to the scene, making it visually appealing and engaging for users.",
+      "situation": null,
+      "file": "aim_20260422_203709_925.png",
+      "timestamp": "2026-04-22T20:37:36",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer screen displaying an open web browser window with a dark blue background. The main focus of the scene is a chat window or message box that appears to be empty. There are several tabs visible in the browser window, indicating multiple active applications or pages being accessed simultaneously.",
+      "situation": null,
+      "file": "aim_20260422_203701_401.png",
+      "timestamp": "2026-04-22T20:37:37",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer screen displaying a web browser window with an open webpage. The webpage has a blue header at the top that says \"Welcome to my website\". Below this header is a gray body of text containing information about the website's features or content. On the right side, there are two buttons labeled \"Close\" and \"Back\", which can be used to close the browser window or navigate back to the previous page. The background color of the image is black, making it stand out against the white screen.",
+      "situation": null,
+      "file": "aim_20260422_203704_073.png",
+      "timestamp": "2026-04-22T20:37:38",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer screen displaying a cartoon scene with two characters - one wearing a yellow shirt and the other in a green shirt. The characters are standing next to each other, facing away from the viewer. On the left side of the screen, there is a list of icons including a \"mail\" icon, a \"file\" icon, and a \"p\" icon. In the center of the image, there is a green bar with three lines on it, which appears to be displaying some sort of data or information related to the cartoon scene.",
+      "situation": null,
+      "file": "aim_20260422_203714_771.png",
+      "timestamp": "2026-04-22T20:37:39",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" with its title displayed in green text at the top of the screen. The monitor is situated on a desk or table, which also has several other screens visible behind it. These additional screens show various icons and windows related to different applications and processes running on the computer.",
+      "situation": null,
+      "file": "aim_20260422_203719_826.png",
+      "timestamp": "2026-04-22T20:37:39",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" with its title displayed in blue at the top of the screen. The monitor is situated on a desk or table, which also has several other screens visible behind it. These additional screens show various icons and windows related to different applications and programs running simultaneously.",
+      "situation": null,
+      "file": "aim_20260422_203723_244.png",
+      "timestamp": "2026-04-22T20:37:40",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" in progress with a cartoon character of a man wearing a green shirt and brown pants as the main focus. The background features a cityscape with buildings and cars, creating an urban setting for the game's environment. On the right side of the screen, there is a small window that appears to be a menu or options panel, likely providing choices related to the game settings or character customization.",
+      "situation": null,
+      "file": "aim_20260422_203725_857.png",
+      "timestamp": "2026-04-22T20:37:41",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" with its logo in the center of the screen. The monitor is situated on a desk or table, surrounded by various other screens and devices. There are multiple icons visible on the desktop, including a keyboard, mouse, and several windows. A cartoon character can be seen near the bottom left corner of the monitor, possibly representing a game character from \"AIMLabs\".",
+      "situation": null,
+      "file": "aim_20260422_203729_284.png",
+      "timestamp": "2026-04-22T20:37:42",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" in progress with two characters from the game - a green turtle and a brown snake. The game is set against a city skyline backdrop, which adds to the immersive gaming experience. The monitor also displays various icons representing different applications and settings on the computer.",
+      "situation": null,
+      "file": "aim_20260422_203731_807.png",
+      "timestamp": "2026-04-22T20:37:42",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "",
+      "situation": null,
+      "file": "aim_20260422_203737_125.png",
+      "timestamp": "2026-04-22T20:37:43",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a close-up view of a black and green 3D model of a tire with a crack in the center. The tire appears to be made of plastic or rubber material, giving it a unique appearance. The background is dark blue, providing contrast to the lighter colors on the tire. There are no other objects or texts present in the image, making the focus solely on the 3D model and its details.",
+      "situation": null,
+      "file": "aim_20260422_203739_490.png",
+      "timestamp": "2026-04-22T20:37:44",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a close-up view of a computer monitor displaying an abstract design with a green border and white lines. The background is black, providing contrast to the vibrant colors in the foreground. A small green square can be seen at the top left corner of the monitor, while another green square is located near the bottom right corner.",
+      "situation": null,
+      "file": "aim_20260422_203742_202.png",
+      "timestamp": "2026-04-22T20:37:45",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" with its title displayed in blue at the top of the screen. The monitor is situated against a dark background, which makes it stand out prominently. Below the game title, there are several icons representing different applications and windows on the desktop.",
+      "situation": null,
+      "file": "aim_20260422_203744_852.png",
+      "timestamp": "2026-04-22T20:37:46",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer monitor displaying the game AIMLabs in progress with two characters - a green turtle and a brown snake - engaged in combat. The game is set against a dark blue background, which contrasts with the vibrant colors of the characters. The screen also displays various other elements such as icons for social media platforms like Facebook and Twitter, along with a chat window where players can communicate with each other during gameplay.",
+      "situation": null,
+      "file": "aim_20260422_203801_241.png",
+      "timestamp": "2026-04-22T20:38:07",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "\nThe image shows a computer monitor displaying the game \"AIMLabs\" with its title displayed in green text at the top of the screen. The monitor is situated on a desk or table, surrounded by various other screens and devices. A keyboard can be seen to the left side of the monitor, while another keyboard is located further back towards the right edge of the image. Additionally, there are two mice present - one near the center of the monitor and another closer to the bottom right corner. The overall scene suggests a workspace or gaming area where multiple screens and devices are being used simultaneously for various",
+      "situation": null,
+      "file": "aim_20260422_203747_646.png",
+      "timestamp": "2026-04-22T20:38:07",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "shot",
+      "screen": "\nThe image shows a computer screen displaying the desktop of a computer with various icons and windows open. The main focus is a window titled \"Magellan\" that has a green background and contains text. Below this window, there are two other windows - one with a yellow background featuring cartoon characters and another with a black background containing text.",
+      "situation": null,
+      "file": "aim_20260422_203800_095.png",
+      "timestamp": "2026-04-22T20:38:08",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: llama runner process has terminated: %!w(<nil>) (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203823_726.png",
+      "timestamp": "2026-04-22T20:38:53",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203840_600.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203853_850.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203843_198.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203856_220.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203828_632.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: health resp: Get \"http://127.0.0.1:62738/health\": dial tcp 127.0.0.1:62738: connectex: No connection could be made because the target machine actively refused it. (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203837_807.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "score",
+      "screen": "[Vision error: model runner has unexpectedly stopped, this may be due to resource limitations or an internal error, check ollama server logs for details (status code: 500)]",
+      "situation": null,
+      "file": "aim_20260422_203826_181.png",
+      "timestamp": "2026-04-22T20:39:12",
+      "game": "Auto Detect"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:19"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:27"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:29"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:33"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:37"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:41"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:50"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:52"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:32:56"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:00"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:04"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:50"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:52"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:53"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:54"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:33:58"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:02"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:06"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:11"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:15"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:19"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:23"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T08:34:27"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:25"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:27"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:36"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:38"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:42"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:46"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T09:07:50"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: low (0.000) | BRIGHT: 0.10\nEDGES: 0.051 | CENTER_ACT: 0.153\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T10:57:31"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (LOCAL AI - Repair Safe Start).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | LOCAL AI - Repair Safe Start | cmd.exe\nMOTION: low (0.000) | BRIGHT: 0.13\nEDGES: 0.147 | CENTER_ACT: 0.170\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T10:57:35"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:58:17"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:58:25"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:58:27"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:58:31"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | kolyanshik | steamwebhelper.exe\nMOTION: medium (0.030) | BRIGHT: 0.14\nEDGES: 0.079 | CENTER_ACT: 0.115\nCROSSHAIR: False | RESULT: False\nENEMIES: 81 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:58:35"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | kolyanshik | steamwebhelper.exe\nMOTION: medium (0.041) | BRIGHT: 0.14\nEDGES: 0.072 | CENTER_ACT: 0.126\nCROSSHAIR: False | RESULT: False\nENEMIES: 52 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:58:53"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:58:55"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.102) | BRIGHT: 0.08\nEDGES: 0.043 | CENTER_ACT: 0.292\nCROSSHAIR: False | RESULT: False\nENEMIES: 2 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:20"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:59:28"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T10:59:30"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.134) | BRIGHT: 0.13\nEDGES: 0.075 | CENTER_ACT: 0.401\nCROSSHAIR: False | RESULT: False\nENEMIES: 4 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:34"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.094) | BRIGHT: 0.12\nEDGES: 0.050 | CENTER_ACT: 0.027\nCROSSHAIR: False | RESULT: False\nENEMIES: 34 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:38"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.130) | BRIGHT: 0.21\nEDGES: 0.034 | CENTER_ACT: 0.115\nCROSSHAIR: False | RESULT: False\nENEMIES: 3 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:42"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Сосредоточься на ритме стрельбы, а не только на прицеле.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: medium (0.072) | BRIGHT: 0.19\nEDGES: 0.053 | CENTER_ACT: 0.232\nCROSSHAIR: False | RESULT: False\nENEMIES: 27 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:51"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.107) | BRIGHT: 0.22\nEDGES: 0.081 | CENTER_ACT: 0.099\nCROSSHAIR: False | RESULT: False\nENEMIES: 24 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:53"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: high (0.108) | BRIGHT: 0.22\nEDGES: 0.085 | CENTER_ACT: 0.295\nCROSSHAIR: False | RESULT: False\nENEMIES: 15 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T10:59:57"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Steam | steamwebhelper.exe\nMOTION: low (0.016) | BRIGHT: 0.22\nEDGES: 0.080 | CENTER_ACT: 0.295\nCROSSHAIR: False | RESULT: False\nENEMIES: 1 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:01"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T11:00:05"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Список друзей | steamwebhelper.exe\nMOTION: low (0.005) | BRIGHT: 0.15\nEDGES: 0.019 | CENTER_ACT: 0.005\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:14"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T11:00:16"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T11:00:20"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: medium (0.063) | BRIGHT: 0.17\nEDGES: 0.055 | CENTER_ACT: 0.309\nCROSSHAIR: False | RESULT: False\nENEMIES: 27 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:24"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: low (0.008) | BRIGHT: 0.16\nEDGES: 0.055 | CENTER_ACT: 0.309\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:28"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: low (0.001) | BRIGHT: 0.16\nEDGES: 0.055 | CENTER_ACT: 0.309\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:37"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: medium (0.056) | BRIGHT: 0.16\nEDGES: 0.037 | CENTER_ACT: 0.190\nCROSSHAIR: False | RESULT: False\nENEMIES: 26 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:39"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: medium (0.056) | BRIGHT: 0.16\nEDGES: 0.055 | CENTER_ACT: 0.309\nCROSSHAIR: False | RESULT: False\nENEMIES: 27 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:43"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Настройки | steamwebhelper.exe\nMOTION: medium (0.043) | BRIGHT: 0.16\nEDGES: 0.051 | CENTER_ACT: 0.282\nCROSSHAIR: False | RESULT: False\nENEMIES: 24 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:00:47"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T11:00:51"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T11:01:00"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | kolyanshik | steamwebhelper.exe\nMOTION: low (0.001) | BRIGHT: 0.14\nEDGES: 0.074 | CENTER_ACT: 0.130\nCROSSHAIR: False | RESULT: False\nENEMIES: 1 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T11:01:02"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: low (0.000) | BRIGHT: 0.09\nEDGES: 0.037 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T22:24:55"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: low (0.010) | BRIGHT: 0.10\nEDGES: 0.041 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T22:24:59"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:25"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:33"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:35"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Auto Detect",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: game | Войти в Steam | steamwebhelper.exe\nMOTION: medium (0.034) | BRIGHT: 0.13\nEDGES: 0.008 | CENTER_ACT: 0.414\nCROSSHAIR: False | RESULT: False\nENEMIES: 18 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:25:39"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:43"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:47"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:57"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Auto Detect",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:25:59"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: low (0.001) | BRIGHT: 0.10\nEDGES: 0.060 | CENTER_ACT: 0.307\nCROSSHAIR: False | RESULT: False\nENEMIES: 1 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T22:26:03"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Auto Detect",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: low (0.003) | BRIGHT: 0.10\nEDGES: 0.063 | CENTER_ACT: 0.326\nCROSSHAIR: False | RESULT: False\nENEMIES: 4 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T22:26:07"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (aimlab_tb).",
+      "game": "Aim Lab",
+      "state": "SCENE: no_frame (conf=0.00)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: unknown (0.000) | BRIGHT: 0.00\nEDGES: 0.000 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: Ошибка захвата\nERROR: dxcam grab returned None",
+      "timestamp": "2026-05-15T22:26:11"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не вижу экран: проверь DXcam/OpenCV и активное окно.",
+      "game": "Aim Lab",
+      "state": "screen sensor недоступен",
+      "timestamp": "2026-05-15T22:27:35"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (aimlab_tb).",
+      "game": "Aim Lab",
+      "state": "SCENE: no_frame (conf=0.00)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: unknown (0.000) | BRIGHT: 0.00\nEDGES: 0.000 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: Ошибка захвата\nERROR: dxcam grab returned None",
+      "timestamp": "2026-05-15T22:27:37"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: medium (0.056) | BRIGHT: 0.05\nEDGES: 0.011 | CENTER_ACT: 0.205\nCROSSHAIR: False | RESULT: False\nENEMIES: 3 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:28:20"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.139) | BRIGHT: 0.18\nEDGES: 0.076 | CENTER_ACT: 0.181\nCROSSHAIR: False | RESULT: False\nENEMIES: 16 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:29:09"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.127) | BRIGHT: 0.10\nEDGES: 0.027 | CENTER_ACT: 0.242\nCROSSHAIR: False | RESULT: False\nENEMIES: 25 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:29:40"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: medium (0.044) | BRIGHT: 0.09\nEDGES: 0.030 | CENTER_ACT: 0.263\nCROSSHAIR: False | RESULT: False\nENEMIES: 16 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:30:15"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2).",
+      "game": "Aim Lab",
+      "state": "SCENE: self_gui (conf=0.95)\nWINDOW: self_gui | SENTINEL AI v17.2 | python.exe\nMOTION: high (0.191) | BRIGHT: 0.25\nEDGES: 0.128 | CENTER_ACT: 0.358\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: не игровое окно; не выдавать игровую аналитику",
+      "timestamp": "2026-05-15T22:30:17"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Сосредоточься на минимизации лишних движений и плавности траектории.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: low (0.001) | BRIGHT: 0.25\nEDGES: 0.128 | CENTER_ACT: 0.358\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:30:55"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.197) | BRIGHT: 0.23\nEDGES: 0.079 | CENTER_ACT: 0.451\nCROSSHAIR: False | RESULT: False\nENEMIES: 12 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:31:29"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Сосредоточься на плавности движений и точности попадания в центр.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.227) | BRIGHT: 0.00\nEDGES: 0.004 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:31:54"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.178) | BRIGHT: 0.18\nEDGES: 0.013 | CENTER_ACT: 0.292\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:32:21"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: medium (0.029) | BRIGHT: 0.19\nEDGES: 0.014 | CENTER_ACT: 0.356\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:32:42"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: high (0.190) | BRIGHT: 0.00\nEDGES: 0.004 | CENTER_ACT: 0.000\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:33:03"
+    },
+    {
+      "type": "screen_advice",
+      "text": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности.",
+      "game": "Aim Lab",
+      "state": "SCENE: unknown (conf=0.25)\nWINDOW: unknown | aimlab_tb | AimLab_tb.exe\nMOTION: medium (0.080) | BRIGHT: 0.08\nEDGES: 0.020 | CENTER_ACT: 0.046\nCROSSHAIR: False | RESULT: False\nENEMIES: 0 detected\nOBJECTS: нет\nHINT: недостаточно данных; давать только общие рекомендации",
+      "timestamp": "2026-05-15T22:33:27"
+    }
+  ],
+  "qa": [
+    {
+      "q": "ыыыыы",
+      "a": "Пожалуйста, уточните ваш вопрос. Вы написали \"Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Вопрос: Во",
+      "timestamp": "2026-06-02T20:17:35"
+    }
+  ],
+  "benchmarks": [],
+  "screen_events": [
+    {
+      "timestamp": "2026-05-15T10:57:31",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.153,
+      "edge_density": 0.051,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T10:57:35",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.17,
+      "edge_density": 0.147,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "LOCAL AI - Repair Safe Start",
+      "advice": "Не анализирую aim: активно неигровое окно (LOCAL AI - Repair Safe Start)."
+    },
+    {
+      "timestamp": "2026-05-15T10:58:35",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.115,
+      "edge_density": 0.079,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "kolyanshik",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:58:53",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.126,
+      "edge_density": 0.072,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "kolyanshik",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:20",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.292,
+      "edge_density": 0.043,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:34",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.401,
+      "edge_density": 0.075,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:38",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.027,
+      "edge_density": 0.05,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:42",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.115,
+      "edge_density": 0.034,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:51",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.232,
+      "edge_density": 0.053,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Сосредоточься на ритме стрельбы, а не только на прицеле."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:53",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.099,
+      "edge_density": 0.081,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T10:59:57",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.295,
+      "edge_density": 0.085,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:01",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.295,
+      "edge_density": 0.08,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:14",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.005,
+      "edge_density": 0.019,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Список друзей",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:24",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.309,
+      "edge_density": 0.055,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:28",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.309,
+      "edge_density": 0.055,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:37",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.309,
+      "edge_density": 0.055,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:39",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.19,
+      "edge_density": 0.037,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:43",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.309,
+      "edge_density": 0.055,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:00:47",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.282,
+      "edge_density": 0.051,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Настройки",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T11:01:02",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.13,
+      "edge_density": 0.074,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "kolyanshik",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:24:55",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.0,
+      "edge_density": 0.037,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T22:24:59",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.0,
+      "edge_density": 0.041,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T22:25:39",
+      "game": "Auto Detect",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.414,
+      "edge_density": 0.008,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "Войти в Steam",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:26:03",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.307,
+      "edge_density": 0.06,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T22:26:07",
+      "game": "Auto Detect",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "low",
+      "center_activity": 0.326,
+      "edge_density": 0.063,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T22:26:11",
+      "game": "Aim Lab",
+      "scene": "no_frame",
+      "confidence": 0.0,
+      "motion": "unknown",
+      "center_activity": 0.0,
+      "edge_density": 0.0,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Не анализирую aim: активно неигровое окно (aimlab_tb)."
+    },
+    {
+      "timestamp": "2026-05-15T22:27:37",
+      "game": "Aim Lab",
+      "scene": "no_frame",
+      "confidence": 0.0,
+      "motion": "unknown",
+      "center_activity": 0.0,
+      "edge_density": 0.0,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Не анализирую aim: активно неигровое окно (aimlab_tb)."
+    },
+    {
+      "timestamp": "2026-05-15T22:28:20",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.205,
+      "edge_density": 0.011,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:29:09",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.181,
+      "edge_density": 0.076,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:29:40",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.242,
+      "edge_density": 0.027,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:30:15",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.263,
+      "edge_density": 0.03,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:30:17",
+      "game": "Aim Lab",
+      "scene": "self_gui",
+      "confidence": 0.95,
+      "motion": "high",
+      "center_activity": 0.358,
+      "edge_density": 0.128,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "SENTINEL AI v17.2",
+      "advice": "Не анализирую aim: активно неигровое окно (SENTINEL AI v17.2)."
+    },
+    {
+      "timestamp": "2026-05-15T22:30:55",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "low",
+      "center_activity": 0.358,
+      "edge_density": 0.128,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Сосредоточься на минимизации лишних движений и плавности траектории."
+    },
+    {
+      "timestamp": "2026-05-15T22:31:29",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.451,
+      "edge_density": 0.079,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:31:54",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.0,
+      "edge_density": 0.004,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Сосредоточься на плавности движений и точности попадания в центр."
+    },
+    {
+      "timestamp": "2026-05-15T22:32:21",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.292,
+      "edge_density": 0.013,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:32:42",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.356,
+      "edge_density": 0.014,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:33:03",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "high",
+      "center_activity": 0.0,
+      "edge_density": 0.004,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    },
+    {
+      "timestamp": "2026-05-15T22:33:27",
+      "game": "Aim Lab",
+      "scene": "unknown",
+      "confidence": 0.25,
+      "motion": "medium",
+      "center_activity": 0.046,
+      "edge_density": 0.02,
+      "crosshair": false,
+      "result_screen": false,
+      "window": "aimlab_tb",
+      "advice": "Кадр неуверенный: держи прицел в центре и сыграй 30 секунд стабильности."
+    }
+  ],
+  "advice_stats": {}
+}

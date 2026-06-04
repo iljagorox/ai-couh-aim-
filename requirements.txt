@@ -9,5 +9,11 @@ sounddevice
 silero-vad
 torch
 soundfile
-onnxruntime
+numpy
+uiautomation
+pyperclip
 pygetwindow
+dxcam
+opencv-python
+pytesseract
+pytest
